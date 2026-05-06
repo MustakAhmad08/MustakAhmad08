@@ -4,7 +4,7 @@
 
 Electrical engineering background with 7+ years in telecommunications infrastructure. Currently applying AI, LLMs, and scalable machine learning to semiconductor manufacturing and industrial decision systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mustakahmad/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat&logo=github)](https://YOUR_WEBSITE)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D44638?style=flat&logo=gmail)](mailto:your_email@purdue.edu)
 
