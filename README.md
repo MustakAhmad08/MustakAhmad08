@@ -1,105 +1,100 @@
-<h1 align="center">Hi 👋, I'm Mustak</h1>
-<h3 align="center">I am passionate about applied AI/ML</h3>
+# Mustak Ahmad
 
-- 🔭 I’m currently working on **Mapping forest Density**
+**AI Engineer & Researcher · Graduate Researcher @ Purdue University**
 
-- 📫 How to reach me **ahmad.mustak08@gmail.com**
+Electrical engineering background with 7+ years in telecommunications infrastructure. Currently applying AI, LLMs, and scalable machine learning to semiconductor manufacturing and industrial decision systems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mustakahmad/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mustak Ahmad" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/mustakahmad" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Mustak Ahmad" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat&logo=github)](https://YOUR_WEBSITE)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D44638?style=flat&logo=gmail)](mailto:your_email@purdue.edu)
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<!-- Programming Languages -->
-<h4 align="left">Programming Languages</h4>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-</p>
+## About
 
-<!-- Libraries & Frameworks -->
-<h4 align="left">Libraries & Frameworks</h4>
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
+I build AI systems that solve real engineering problems — from detecting wafer defects in semiconductor fabs to mapping tree density across continents. My work sits at the intersection of industrial AI, large language models, and time-series analytics.
 
-<!-- Databases & Data Tools -->
-<h4 align="left">Databases & Data Tools</h4>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-</p>
+**Currently open to:** AI/ML internships in semiconductor manufacturing, industrial AI, or applied research (Summer 2027).
 
-<!-- Design Tools -->
-<h4 align="left">Design Tools</h4>
-<p align="left">
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<!-- Platforms & Others -->
-<h4 align="left">Platforms & Others</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+## Featured Projects
 
+### 🏭 Semiconductor Anomaly Detection Pipeline
+Intelligent anomaly detection for industrial time-series data using machine learning and predictive modeling. Built to support real-time manufacturing decisions.
 
+`Python` `PyTorch` `XGBoost` `Time-Series` `Industrial AI`
 
-<!--
-**MustakAhmad08/MustakAhmad08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔬 Wafer Defect Detection — Vision AI
+Computer vision pipeline for wafer defect classification using deep learning and explainable AI (XAI) techniques. Designed for manufacturing quality control environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`YOLO` `OpenCV` `Deep Learning` `Explainable AI` `PyTorch`
+
+---
+
+### 🤖 LLM-Powered Manufacturing Copilot
+AI assistant for manufacturing environments — summarizes operational logs, surfaces anomalies, and supports intelligent decision-making through retrieval-augmented generation (RAG).
+
+`LLMs` `RAG` `LangChain` `Vector Databases` `Industrial NLP`
+
+---
+
+### 🌎 Continental Tree Density Mapping
+Neural network models integrating satellite remote sensing and forest inventory data to estimate tree density across North America at continental scale.
+
+`Remote Sensing` `GIS` `PyTorch` `FFNN` `Geospatial Analytics`
+
+---
+
+### 📈 Trade Policy & Deforestation — Causal Analysis
+Applied causal inference and time-series econometrics to evaluate the impact of tariff policy on soybean production and Amazonian forest loss.
+
+`Difference-in-Differences` `Time Series` `Econometrics` `GIS`
+
+---
+
+## Technical Skills
+
+| Domain | Tools & Frameworks |
+|---|---|
+| **Machine Learning** | PyTorch · Scikit-learn · XGBoost · Transformers · HuggingFace |
+| **Computer Vision** | YOLO · OpenCV · Deep Learning · Explainable AI |
+| **LLMs & NLP** | LangChain · RAG · Vector Databases · Prompt Engineering |
+| **Time Series** | Anomaly Detection · Forecasting · Industrial Sensor Data |
+| **Data & Engineering** | Python · SQL · Docker · Git · Linux · HPC · Slurm |
+| **Geospatial** | Remote Sensing · GIS · Satellite Data · FFNN |
+| **Research Methods** | Causal Inference · Statistical Modeling · Scientific Writing |
+
+---
+
+## Research Focus
+
+```
+Semiconductor Manufacturing AI    →   Predictive Maintenance & Fault Detection
+Industrial LLM Agents             →   Decision Intelligence Systems  
+Vision AI for Wafer Inspection    →   Quality Control Automation
+Time-Series Forecasting           →   Anomaly Detection at Scale
+Geospatial & Remote Sensing AI    →   Environmental Monitoring
+```
+
+---
+
+## Background
+
+- 🎓 Graduate Researcher, **Purdue University** — Electrical Engineering
+- 📡 7+ years industry experience in **telecommunications infrastructure systems**
+- 🏭 Research focus: **Semiconductor manufacturing AI** and industrial decision support
+- 🌐 Experience with large-scale real-world systems across engineering and environmental domains
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MustakAhmad08&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustakAhmad08&layout=compact&theme=default&hide_border=true)
+
+---
+
+*Open to collaborations, research discussions, and internship opportunities in applied AI and industrial machine learning.*
